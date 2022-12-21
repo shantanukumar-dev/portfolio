@@ -667,6 +667,11 @@ h3 {
         .about .about-content .education
         .about .about-content .skills
         .about .about-content .personal-info
+        {
+            flex:0 0 100%;
+            max-width:100%;
+        }
+}
         
 
             
