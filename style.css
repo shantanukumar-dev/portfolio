@@ -656,7 +656,7 @@ h3 {
             }
             .home .home-img
             {
-                display:none;
+                display:block;
             }
 }
 @media(max-width:767px)
