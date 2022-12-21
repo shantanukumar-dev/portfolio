@@ -654,16 +654,13 @@ h3 {
                flex:0 0 100%;
             max-width:100%; 
             }
-            .home .home-img
-            {
-                display:block;
-            }
+          
 }
 @media(max-width:767px)
     {
         .contact .contact-form .col-6
         .contact .contact-info-item
-        .about .about-content .See The location
+        .about .about-content .experience
         .about .about-content .education
         .about .about-content .skills
         .about .about-content .personal-info
