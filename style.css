@@ -1,4 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;700&display=swap');
+img,
+picture,
+video {
+  max-width: 100%;
+}
 
 :root {
     --bg--black--900: #f2f2fc;
